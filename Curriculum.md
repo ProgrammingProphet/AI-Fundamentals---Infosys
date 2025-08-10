@@ -95,7 +95,7 @@
 
 ---
 
-
+<!--
 ## **Free Software for All 5 Days**
 
 | Tool                          | Purpose                             |
@@ -108,3 +108,4 @@
 | **Grammarly Free**            | Plagiarism & grammar checks         |
 
 ---
+-->
